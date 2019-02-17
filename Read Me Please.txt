@@ -1,0 +1,6 @@
+This documents contains a history of what was tried and how the final decision on each module was made.
+
+Several algorithms were tried using the dataset and their performance and runtime were measured.The algorithms tried
+are in a separate file called algorithm_tests.
+
+Considering the immensely large dataset, only linear regression seemed to work since it was the only algorithm of the order n.
